@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Leada: Text to Sign Language</title>
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+    <input type="text" id="what2Say" title="Type in here and the Sign Language spelling will appear below" placeholder="Type here..." onchange="words2Faces(this.value)">
+
+    <div id="container">
+        <div id="aslContainer" title="ASL" class="asl asl-a"></div>
+    </div>
+
+    <div id="spelledOut"></div>
+    <script src="./script.js"></script>
+
+</body>
+</html>
