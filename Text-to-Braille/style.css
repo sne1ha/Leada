@@ -1,0 +1,20 @@
+body {
+  padding : 25px;
+}
+
+#output {
+  background-color : #FFFFFF; /* White */
+  border : 1px solid #CCCCCC; /* Grey */
+  padding : 15px;
+  margin : 10px 0 10px 0;
+  font-size : 36px;
+  font-weight : 800;
+  color : #FF0000; /* Red */
+}
+
+#myName {
+  padding : 3px 5px 3px 5px;
+  background-color : #f1f1f1;
+  font-size : 16px;
+  border : 1px solid #ccc; /* Light grey */
+}
