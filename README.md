@@ -6,5 +6,5 @@
 
 - link <a href="link" target="blank">`link`</a>
 
-[!graphic (link)]
+[![GRAPHIC HERE](imgur link)]()
 ![ GIF](link)
