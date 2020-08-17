@@ -7,4 +7,5 @@
 - link <a href="link" target="blank">`link`</a>
 
 [![GRAPHIC HERE](imgur link)]()
-![ GIF](link)
+
+![GIF](http://g.recordit.co/Z96thIyfei.gif)
